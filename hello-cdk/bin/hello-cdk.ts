@@ -16,7 +16,7 @@ new HelloCdkStack(app, 'HelloCdkStack', {
 
   /* Uncomment the next line to specialize this stack for the AWS Account
    * and Region that are implied by the current CLI configuration. */
-   env:  { account: '353211646521', region: 'ap-south-1' },
+   //env:  { account: 'your aws account id ', region: 'ap-south-1' },
 
   /* Uncomment the next line if you know exactly what Account and Region you
    * want to deploy the stack to. */
